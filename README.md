@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:rRoler?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=0"  />
+  <img src="https://count.getloli.com/@:rRoler?theme=booru-lisu&padding=7&scale=1&align=top&pixelated=1&darkmode=0"  />
 </div>
 
 ###
