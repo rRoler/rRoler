@@ -56,7 +56,7 @@
 
 ###
 
-<h3 align="center">Profile Visits</h3>
+<h3 align="center">Profile Views 👀</h3>
 
 ###
 
