@@ -58,7 +58,7 @@
 
 ###
 
-<h3 align="center">Visitors</h3>
+<h3 align="center">Profile Visits</h3>
 
 ###
 
